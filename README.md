@@ -31,7 +31,7 @@ The dataset used in this project is the [Fraud Detection Dataset](https://www.ka
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/new/fraud-detection-som.git
+   git clone https://github.com/BaseMax/fraud-detection-som.git
    ```
 
 2. Navigate to the project directory:
